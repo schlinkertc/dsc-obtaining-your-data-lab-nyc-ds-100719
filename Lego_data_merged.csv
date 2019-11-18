@@ -1,0 +1,745 @@
+prod_id,prod_desc,prod_long_desc,theme_name,num_reviews,play_star_rating,review_difficulty,star_rating,val_star_rating
+630,blah,blahblah,Classic,180.0,4.0,Very Easy,4.8,4.6
+2304,blah,blahblah,DUPLO®,15.0,4.4,Easy,4.0,3.3
+7280,blah,blahblah,City,85.0,4.1,Very Easy,3.5,2.3
+7281,blah,blahblah,City,40.0,4.1,Very Easy,3.9,2.8
+7499,blah,blahblah,City,89.0,2.9,Easy,2.5,2.2
+7895,blah,blahblah,City,47.0,4.2,Very Easy,4.1,3.6
+8293,blah,blahblah,Power Functions,57.0,4.6,Easy,4.5,3.9
+9843,blah,blahblah,MINDSTORMS®,13.0,3.8,Very Easy,3.8,3.5
+10214,blah,blahblah,Creator Expert,228.0,4.2,Challenging,4.8,4.6
+10220,blah,blahblah,Creator Expert,337.0,4.3,Challenging,4.7,4.5
+10242,blah,blahblah,Creator Expert,134.0,4.4,Average,4.7,4.5
+10243,blah,blahblah,Creator Expert,202.0,4.7,Challenging,4.9,4.7
+10246,blah,blahblah,Creator Expert,177.0,4.4,Challenging,4.6,4.4
+10247,blah,blahblah,Creator Expert,91.0,4.9,Challenging,4.9,4.7
+10249,blah,blahblah,Creator Expert,142.0,3.9,Average,3.8,3.7
+10251,blah,blahblah,Creator Expert,115.0,4.5,Challenging,4.7,4.2
+10252,blah,blahblah,Creator Expert,66.0,4.5,Average,4.9,4.7
+10253,blah,blahblah,Creator Expert,64.0,3.7,Challenging,4.6,4.6
+10254,blah,blahblah,Creator Expert,77.0,4.3,Average,4.3,4.1
+10255,blah,blahblah,Creator Expert,99.0,4.7,Challenging,4.8,4.5
+10256,blah,blahblah,Creator Expert,43.0,3.9,Challenging,4.8,4.5
+10257,blah,blahblah,Creator Expert,53.0,4.2,Challenging,4.4,4.2
+10258,blah,blahblah,Creator Expert,53.0,4.1,Average,4.6,4.3
+10259,blah,blahblah,Creator Expert,51.0,3.8,Average,3.8,3.4
+10260,blah,blahblah,Creator Expert,62.0,4.4,Challenging,4.6,4.3
+10507,blah,blahblah,DUPLO®,11.0,4.9,Easy,4.7,4.4
+10508,blah,blahblah,DUPLO®,22.0,4.6,Average,4.1,3.7
+10572,blah,blahblah,DUPLO®,4.0,4.8,Very Easy,5.0,4.0
+10590,blah,blahblah,DUPLO®,3.0,5.0,Easy,5.0,4.7
+10592,blah,blahblah,DUPLO®,2.0,5.0,Very Easy,5.0,5.0
+10597,blah,blahblah,DUPLO®,4.0,5.0,Easy,4.8,4.7
+10606,blah,blahblah,DUPLO®,,,nan,,
+10607,blah,blahblah,DUPLO®,3.0,3.0,Easy,3.7,2.5
+10608,blah,blahblah,DUPLO®,1.0,5.0,Average,5.0,5.0
+10615,blah,blahblah,DUPLO®,3.0,5.0,Very Easy,5.0,4.7
+10616,blah,blahblah,DUPLO®,3.0,4.7,Easy,5.0,4.7
+10687,blah,blahblah,Juniors,5.0,4.4,Very Easy,4.2,3.8
+10692,blah,blahblah,Classic,7.0,4.3,Easy,4.1,4.3
+10693,blah,blahblah,Classic,8.0,4.8,Easy,4.9,4.9
+10694,blah,blahblah,Classic,6.0,4.3,Easy,4.5,4.3
+10696,blah,blahblah,Classic,11.0,4.6,Easy,4.6,4.7
+10698,blah,blahblah,Classic,4.0,5.0,Easy,5.0,5.0
+10699,blah,blahblah,Classic,24.0,3.9,Very Easy,3.6,2.9
+10700,blah,blahblah,Classic,46.0,3.2,Very Easy,2.6,2.5
+10701,blah,blahblah,Classic,24.0,4.3,Very Easy,4.1,3.5
+10703,blah,blahblah,Classic,2.0,5.0,Average,4.0,4.0
+10704,blah,blahblah,Classic,2.0,3.5,nan,4.5,4.5
+10706,blah,blahblah,Classic,8.0,4.6,Very Easy,4.8,5.0
+10707,blah,blahblah,Classic,4.0,4.3,Average,4.5,4.3
+10708,blah,blahblah,Classic,5.0,4.5,Easy,4.8,4.5
+10709,blah,blahblah,Classic,3.0,2.7,Easy,4.7,5.0
+10713,blah,blahblah,Classic,2.0,5.0,Very Easy,5.0,5.0
+10714,blah,blahblah,Classic,6.0,4.7,Very Easy,4.7,4.3
+10715,blah,blahblah,Classic,,,nan,,
+10720,blah,blahblah,Juniors,,,nan,,
+10722,blah,blahblah,Juniors,,,nan,,
+10723,blah,blahblah,Juniors,1.0,5.0,Easy,5.0,5.0
+10725,blah,blahblah,Juniors,1.0,4.0,Very Easy,4.0,4.0
+10726,blah,blahblah,Juniors,2.0,4.0,Very Easy,3.0,3.0
+10730,blah,blahblah,Juniors,8.0,3.9,Very Easy,4.0,3.9
+10731,blah,blahblah,Juniors,3.0,4.3,Easy,5.0,4.3
+10732,blah,blahblah,Juniors,1.0,5.0,nan,5.0,5.0
+10733,blah,blahblah,Juniors,3.0,4.3,Easy,4.7,5.0
+10734,blah,blahblah,Juniors,2.0,5.0,nan,5.0,4.0
+10735,blah,blahblah,Juniors,3.0,5.0,Easy,5.0,4.7
+10736,blah,blahblah,Juniors,3.0,4.7,Average,4.7,4.7
+10737,blah,blahblah,Juniors,2.0,4.0,Easy,4.5,4.0
+10738,blah,blahblah,Juniors,2.0,5.0,Average,5.0,5.0
+10739,blah,blahblah,Juniors,2.0,4.5,Easy,4.5,4.0
+10740,blah,blahblah,Juniors,1.0,,Easy,4.0,
+10742,blah,blahblah,Juniors,2.0,2.5,Easy,3.0,3.0
+10743,blah,blahblah,Juniors,2.0,5.0,Easy,4.5,5.0
+10744,blah,blahblah,Juniors,2.0,5.0,Average,5.0,4.5
+10745,blah,blahblah,Juniors,1.0,5.0,Challenging,5.0,5.0
+10746,blah,blahblah,Juniors,2.0,5.0,Easy,5.0,4.5
+10747,blah,blahblah,Juniors,1.0,5.0,Average,5.0,4.0
+10748,blah,blahblah,Juniors,2.0,5.0,Very Easy,5.0,4.0
+10749,blah,blahblah,Juniors,,,nan,,
+10750,blah,blahblah,Juniors,,,nan,,
+10751,blah,blahblah,Juniors,,,nan,,
+10753,blah,blahblah,Juniors,1.0,5.0,Easy,5.0,5.0
+10754,blah,blahblah,Juniors,1.0,5.0,nan,4.0,4.0
+10755,blah,blahblah,Juniors,,,nan,,
+10756,blah,blahblah,Juniors,,,nan,,
+10757,blah,blahblah,Juniors,,,nan,,
+10758,blah,blahblah,Juniors,,,nan,,
+10759,blah,blahblah,Juniors,,,nan,,
+10760,blah,blahblah,Juniors,,,nan,,
+10761,blah,blahblah,Juniors,,,nan,,
+10801,blah,blahblah,DUPLO®,4.0,4.3,Easy,5.0,4.3
+10804,blah,blahblah,DUPLO®,2.0,4.5,Easy,4.5,4.0
+10805,blah,blahblah,DUPLO®,8.0,4.9,Easy,5.0,4.8
+10808,blah,blahblah,DUPLO®,1.0,5.0,Very Easy,5.0,5.0
+10809,blah,blahblah,DUPLO®,1.0,3.0,Easy,4.0,3.0
+10812,blah,blahblah,DUPLO®,2.0,5.0,Average,5.0,5.0
+10813,blah,blahblah,DUPLO®,1.0,5.0,Average,5.0,5.0
+10816,blah,blahblah,DUPLO®,6.0,4.8,Easy,5.0,4.7
+10817,blah,blahblah,DUPLO®,,,nan,,
+10818,blah,blahblah,DUPLO®,,,nan,,
+10820,blah,blahblah,DUPLO®,2.0,3.0,Very Easy,3.5,4.0
+10822,blah,blahblah,DUPLO®,2.0,5.0,Very Easy,5.0,4.5
+10823,blah,blahblah,DUPLO®,3.0,4.3,Average,4.3,3.3
+10827,blah,blahblah,DUPLO®,3.0,5.0,Very Easy,5.0,5.0
+10828,blah,blahblah,DUPLO®,,,nan,,
+10831,blah,blahblah,DUPLO®,,,nan,,
+10832,blah,blahblah,DUPLO®,,,nan,,
+10833,blah,blahblah,DUPLO®,2.0,5.0,Average,5.0,5.0
+10834,blah,blahblah,DUPLO®,2.0,5.0,Average,5.0,5.0
+10835,blah,blahblah,DUPLO®,,,nan,,
+10836,blah,blahblah,DUPLO®,,,nan,,
+10837,blah,blahblah,DUPLO®,5.0,4.5,Easy,4.2,3.8
+10838,blah,blahblah,DUPLO®,2.0,5.0,Very Easy,5.0,5.0
+10839,blah,blahblah,DUPLO®,,,nan,,
+10840,blah,blahblah,DUPLO®,1.0,4.0,Easy,5.0,4.0
+10841,blah,blahblah,DUPLO®,,,nan,,
+10843,blah,blahblah,DUPLO®,,,nan,,
+10844,blah,blahblah,DUPLO®,,,nan,,
+10845,blah,blahblah,DUPLO®,6.0,2.2,Average,2.2,3.2
+10846,blah,blahblah,DUPLO®,3.0,5.0,Easy,5.0,4.5
+10847,blah,blahblah,DUPLO®,5.0,5.0,Easy,5.0,4.8
+10848,blah,blahblah,DUPLO®,,,nan,,
+10849,blah,blahblah,DUPLO®,,,nan,,
+10850,blah,blahblah,DUPLO®,2.0,4.5,Easy,5.0,5.0
+10851,blah,blahblah,DUPLO®,,,nan,,
+10852,blah,blahblah,DUPLO®,2.0,4.5,Very Easy,5.0,5.0
+10854,blah,blahblah,DUPLO®,,,nan,,
+10855,blah,blahblah,DUPLO®,,,nan,,
+10856,blah,blahblah,DUPLO®,1.0,5.0,Easy,5.0,5.0
+10857,blah,blahblah,DUPLO®,1.0,5.0,Easy,5.0,4.0
+10858,blah,blahblah,DUPLO®,,,nan,,
+10859,blah,blahblah,DUPLO®,,,nan,,
+10860,blah,blahblah,DUPLO®,,,nan,,
+10861,blah,blahblah,DUPLO®,,,nan,,
+10862,blah,blahblah,DUPLO®,,,nan,,
+10863,blah,blahblah,DUPLO®,,,nan,,
+10864,blah,blahblah,DUPLO®,,,nan,,
+10865,blah,blahblah,DUPLO®,,,nan,,
+10867,blah,blahblah,DUPLO®,,,nan,,
+10868,blah,blahblah,DUPLO®,,,nan,,
+10869,blah,blahblah,DUPLO®,,,nan,,
+10870,blah,blahblah,DUPLO®,,,nan,,
+10871,blah,blahblah,DUPLO®,,,nan,,
+10876,blah,blahblah,DUPLO®,,,nan,,
+10877,blah,blahblah,DUPLO®,1.0,3.0,nan,4.0,4.0
+10878,blah,blahblah,DUPLO®,1.0,5.0,Very Easy,5.0,5.0
+10879,blah,blahblah,DUPLO®,1.0,,nan,5.0,
+10880,blah,blahblah,DUPLO®,,,nan,,
+17101,blah,blahblah,BOOST,63.0,3.8,Average,3.4,3.5
+21019,blah,blahblah,Architecture,53.0,3.2,Average,4.6,4.4
+21028,blah,blahblah,Architecture,37.0,3.7,Average,4.2,4.1
+21029,blah,blahblah,Architecture,24.0,4.4,Average,4.7,4.3
+21030,blah,blahblah,Architecture,23.0,3.6,Average,4.6,4.3
+21032,blah,blahblah,Architecture,7.0,4.2,Easy,4.6,4.2
+21033,blah,blahblah,Architecture,11.0,3.6,Average,4.8,4.5
+21034,blah,blahblah,Architecture,23.0,3.6,Average,4.7,4.1
+21035,blah,blahblah,Architecture,14.0,3.2,Challenging,4.6,4.1
+21036,blah,blahblah,Architecture,14.0,4.1,Average,4.4,3.6
+21039,blah,blahblah,Architecture,7.0,3.7,Average,4.9,4.4
+21119,blah,blahblah,Minecraft™,16.0,3.1,Average,3.4,3.3
+21121,blah,blahblah,Minecraft™,15.0,4.8,Average,4.8,4.5
+21122,blah,blahblah,Minecraft™,14.0,3.6,Easy,3.5,2.2
+21123,blah,blahblah,Minecraft™,16.0,4.4,Easy,4.6,4.4
+21124,blah,blahblah,Minecraft™,6.0,4.8,Average,5.0,4.5
+21125,blah,blahblah,Minecraft™,14.0,4.6,Average,4.7,4.7
+21126,blah,blahblah,Minecraft™,3.0,4.5,Average,5.0,4.5
+21129,blah,blahblah,Minecraft™,5.0,5.0,Average,4.6,4.8
+21130,blah,blahblah,Minecraft™,6.0,4.2,Easy,4.7,4.2
+21134,blah,blahblah,Minecraft™,7.0,4.0,Average,4.1,3.7
+21135,blah,blahblah,Minecraft™,1.0,5.0,Challenging,5.0,5.0
+21136,blah,blahblah,Minecraft™,2.0,5.0,Easy,5.0,4.0
+21137,blah,blahblah,Minecraft™,11.0,4.3,Challenging,4.5,4.2
+21138,blah,blahblah,Minecraft™,4.0,5.0,Easy,4.3,2.7
+21139,blah,blahblah,Minecraft™,,,nan,,
+21140,blah,blahblah,Minecraft™,4.0,4.5,Average,4.5,5.0
+21141,blah,blahblah,Minecraft™,2.0,5.0,Average,5.0,4.5
+21142,blah,blahblah,Minecraft™,,,nan,,
+21143,blah,blahblah,Minecraft™,1.0,5.0,Average,5.0,5.0
+21144,blah,blahblah,Minecraft™,4.0,4.7,Easy,4.8,4.3
+21307,blah,blahblah,Ideas,51.0,3.3,Average,4.1,4.0
+21308,blah,blahblah,Ideas,23.0,3.6,Easy,3.3,2.7
+21309,blah,blahblah,Ideas,367.0,4.6,Challenging,4.9,4.9
+21310,blah,blahblah,Ideas,79.0,4.8,Average,5.0,4.7
+21312,blah,blahblah,Ideas,33.0,4.4,Easy,4.6,4.5
+21313,blah,blahblah,Ideas,83.0,3.7,Average,4.5,4.2
+21314,blah,blahblah,Ideas,30.0,4.1,Easy,4.4,3.7
+31029,blah,blahblah,Creator 3-in-1,4.0,4.0,Average,4.8,4.8
+31035,blah,blahblah,Creator 3-in-1,9.0,4.5,Easy,4.4,4.1
+31043,blah,blahblah,Creator 3-in-1,2.0,4.0,Easy,5.0,4.5
+31046,blah,blahblah,Creator 3-in-1,8.0,4.3,Average,4.6,4.5
+31047,blah,blahblah,Creator 3-in-1,7.0,4.8,Average,4.9,4.7
+31049,blah,blahblah,Creator 3-in-1,4.0,4.8,Average,5.0,4.8
+31051,blah,blahblah,Creator 3-in-1,15.0,4.7,Average,4.7,4.3
+31052,blah,blahblah,Creator 3-in-1,23.0,4.7,Average,4.9,4.3
+31056,blah,blahblah,Creator 3-in-1,6.0,4.5,Easy,4.5,4.7
+31057,blah,blahblah,Creator 3-in-1,1.0,4.0,Easy,4.0,4.0
+31058,blah,blahblah,Creator 3-in-1,27.0,4.5,Easy,4.7,4.7
+31059,blah,blahblah,Creator 3-in-1,1.0,5.0,Average,5.0,5.0
+31060,blah,blahblah,Creator 3-in-1,,,nan,,
+31062,blah,blahblah,Creator 3-in-1,9.0,4.5,Average,4.8,4.3
+31063,blah,blahblah,Creator 3-in-1,5.0,4.0,Average,4.2,3.4
+31064,blah,blahblah,Creator 3-in-1,2.0,5.0,Average,4.5,4.5
+31066,blah,blahblah,Creator 3-in-1,12.0,4.3,Easy,4.2,4.4
+31067,blah,blahblah,Creator 3-in-1,8.0,4.0,Average,4.6,4.9
+31068,blah,blahblah,Creator 3-in-1,10.0,3.2,Average,3.8,3.9
+31069,blah,blahblah,Creator 3-in-1,11.0,3.2,Average,3.4,3.2
+31070,blah,blahblah,Creator 3-in-1,14.0,4.2,Average,4.5,4.3
+31071,blah,blahblah,Creator 3-in-1,1.0,5.0,Average,5.0,5.0
+31072,blah,blahblah,Creator 3-in-1,,,nan,,
+31073,blah,blahblah,Creator 3-in-1,5.0,4.7,Easy,4.4,5.0
+31074,blah,blahblah,Creator 3-in-1,2.0,4.5,Easy,5.0,5.0
+31075,blah,blahblah,Creator 3-in-1,1.0,5.0,Easy,4.0,4.0
+31076,blah,blahblah,Creator 3-in-1,1.0,5.0,Average,5.0,5.0
+31079,blah,blahblah,Creator 3-in-1,5.0,4.0,Easy,4.4,4.2
+31080,blah,blahblah,Creator 3-in-1,2.0,4.0,Easy,3.5,4.0
+31081,blah,blahblah,Creator 3-in-1,4.0,4.0,Average,4.8,4.3
+31313,blah,blahblah,MINDSTORMS®,38.0,4.4,Challenging,4.3,3.7
+40171,blah,blahblah,Friends,2.0,5.0,Average,5.0,5.0
+40270,blah,blahblah,BrickHeadz,7.0,3.2,Easy,4.9,4.7
+40271,blah,blahblah,BrickHeadz,4.0,2.0,Easy,5.0,4.5
+40307,blah,blahblah,Disney™,1.0,4.0,Easy,5.0,4.0
+40388,blah,blahblah,Disney™,1.0,5.0,Easy,5.0,5.0
+41066,blah,blahblah,Disney™,11.0,4.3,Easy,4.0,3.8
+41123,blah,blahblah,Friends,2.0,4.5,Easy,5.0,4.5
+41124,blah,blahblah,Friends,5.0,5.0,Average,5.0,5.0
+41126,blah,blahblah,Friends,5.0,5.0,Average,5.0,5.0
+41127,blah,blahblah,Friends,6.0,3.8,Average,4.3,4.0
+41128,blah,blahblah,Friends,8.0,4.3,Average,4.5,4.5
+41130,blah,blahblah,Friends,17.0,4.8,Average,4.8,4.5
+41132,blah,blahblah,Friends,5.0,2.8,Easy,2.8,1.8
+41134,blah,blahblah,Friends,5.0,3.8,Easy,2.8,2.4
+41142,blah,blahblah,Disney™,1.0,5.0,Very Easy,5.0,5.0
+41143,blah,blahblah,Disney™,,,nan,,
+41144,blah,blahblah,Disney™,,,nan,,
+41145,blah,blahblah,Disney™,2.0,5.0,Average,5.0,4.5
+41146,blah,blahblah,Disney™,4.0,4.3,Average,4.8,4.3
+41147,blah,blahblah,Disney™,2.0,5.0,Easy,5.0,5.0
+41148,blah,blahblah,Disney™,5.0,4.0,Average,4.0,3.8
+41149,blah,blahblah,Disney™,2.0,5.0,Challenging,4.5,4.5
+41150,blah,blahblah,Disney™,3.0,4.7,Easy,4.7,4.7
+41151,blah,blahblah,Disney™,1.0,5.0,Average,5.0,5.0
+41152,blah,blahblah,Disney™,3.0,4.7,Easy,4.3,4.3
+41153,blah,blahblah,Disney™,3.0,4.3,Average,4.3,3.3
+41154,blah,blahblah,Disney™,3.0,4.3,Challenging,4.3,3.3
+41155,blah,blahblah,Disney™,,,nan,,
+41181,blah,blahblah,Elves,3.0,5.0,Easy,5.0,5.0
+41182,blah,blahblah,Elves,4.0,5.0,Average,4.5,5.0
+41183,blah,blahblah,Elves,8.0,4.3,Average,4.3,4.4
+41185,blah,blahblah,Elves,3.0,5.0,Average,5.0,4.5
+41186,blah,blahblah,Elves,2.0,5.0,Average,5.0,3.5
+41187,blah,blahblah,Elves,6.0,4.5,Average,4.3,4.2
+41188,blah,blahblah,Elves,1.0,,nan,5.0,
+41190,blah,blahblah,Elves,2.0,5.0,Easy,5.0,5.0
+41191,blah,blahblah,Elves,2.0,5.0,Average,5.0,5.0
+41192,blah,blahblah,Elves,2.0,4.0,Average,4.0,3.5
+41193,blah,blahblah,Elves,2.0,4.5,Average,5.0,4.5
+41194,blah,blahblah,Elves,2.0,5.0,nan,4.5,3.0
+41230,blah,blahblah,DC Super Hero Girls,4.0,5.0,Easy,4.5,4.3
+41231,blah,blahblah,DC Super Hero Girls,2.0,5.0,Average,5.0,4.5
+41232,blah,blahblah,DC Super Hero Girls,7.0,3.7,Average,3.9,3.6
+41233,blah,blahblah,DC Super Hero Girls,2.0,4.5,Average,4.0,5.0
+41234,blah,blahblah,DC Super Hero Girls,2.0,4.5,Average,4.0,3.5
+41237,blah,blahblah,DC Super Hero Girls,1.0,5.0,Average,5.0,5.0
+41238,blah,blahblah,DC Super Hero Girls,,,nan,,
+41239,blah,blahblah,DC Super Hero Girls,,,nan,,
+41300,blah,blahblah,Friends,,,nan,,
+41301,blah,blahblah,Friends,1.0,4.0,nan,4.0,4.0
+41302,blah,blahblah,Friends,1.0,5.0,Easy,5.0,5.0
+41303,blah,blahblah,Friends,1.0,5.0,nan,5.0,5.0
+41306,blah,blahblah,Friends,1.0,3.0,Easy,4.0,5.0
+41309,blah,blahblah,Friends,,,nan,,
+41310,blah,blahblah,Friends,1.0,4.0,Easy,4.0,5.0
+41311,blah,blahblah,Friends,7.0,3.8,Easy,4.1,3.7
+41312,blah,blahblah,Friends,3.0,4.5,Average,4.7,4.5
+41313,blah,blahblah,Friends,6.0,4.8,Easy,4.5,4.0
+41314,blah,blahblah,Friends,8.0,4.6,Average,4.1,3.3
+41315,blah,blahblah,Friends,4.0,5.0,Easy,4.5,4.8
+41316,blah,blahblah,Friends,1.0,5.0,Easy,5.0,5.0
+41317,blah,blahblah,Friends,2.0,5.0,Challenging,4.5,5.0
+41318,blah,blahblah,Friends,4.0,5.0,Average,4.8,4.0
+41319,blah,blahblah,Friends,3.0,5.0,Easy,4.0,4.0
+41320,blah,blahblah,Friends,,,nan,,
+41322,blah,blahblah,Friends,2.0,5.0,Average,4.5,4.5
+41323,blah,blahblah,Friends,4.0,5.0,Average,5.0,4.5
+41324,blah,blahblah,Friends,3.0,3.3,Average,3.7,3.7
+41325,blah,blahblah,Friends,3.0,4.0,Challenging,3.7,3.0
+41326,blah,blahblah,Friends,18.0,2.7,Easy,2.6,2.6
+41327,blah,blahblah,Friends,3.0,2.3,Average,3.0,2.7
+41328,blah,blahblah,Friends,2.0,4.5,Easy,5.0,5.0
+41329,blah,blahblah,Friends,1.0,5.0,Easy,4.0,2.0
+41330,blah,blahblah,Friends,,,nan,,
+41332,blah,blahblah,Friends,,,nan,,
+41333,blah,blahblah,Friends,1.0,5.0,nan,5.0,5.0
+41334,blah,blahblah,Friends,1.0,5.0,Average,5.0,5.0
+41335,blah,blahblah,Friends,2.0,5.0,Challenging,5.0,5.0
+41336,blah,blahblah,Friends,3.0,4.7,Average,2.7,3.3
+41338,blah,blahblah,Friends,1.0,4.0,Average,4.0,1.0
+41339,blah,blahblah,Friends,,,nan,,
+41340,blah,blahblah,Friends,7.0,4.6,Average,4.1,4.0
+41485,blah,blahblah,BrickHeadz,2.0,3.0,Easy,4.5,4.0
+41486,blah,blahblah,BrickHeadz,3.0,3.5,Very Easy,4.7,4.7
+41487,blah,blahblah,BrickHeadz,7.0,4.0,Easy,5.0,4.7
+41488,blah,blahblah,BrickHeadz,5.0,3.2,Very Easy,4.4,4.0
+41585,blah,blahblah,BrickHeadz,11.0,3.8,Very Easy,4.9,4.7
+41586,blah,blahblah,BrickHeadz,9.0,3.5,Easy,4.3,4.6
+41587,blah,blahblah,BrickHeadz,10.0,4.3,Very Easy,4.8,4.9
+41588,blah,blahblah,BrickHeadz,12.0,3.3,Easy,4.8,4.7
+41590,blah,blahblah,BrickHeadz,8.0,4.0,Easy,4.9,4.4
+41591,blah,blahblah,BrickHeadz,4.0,3.5,Easy,4.8,4.8
+41592,blah,blahblah,BrickHeadz,8.0,3.9,Easy,4.6,4.1
+41593,blah,blahblah,BrickHeadz,9.0,3.6,Easy,4.8,4.6
+41594,blah,blahblah,BrickHeadz,6.0,3.3,Very Easy,5.0,4.7
+41595,blah,blahblah,BrickHeadz,10.0,4.2,Easy,4.8,4.7
+41596,blah,blahblah,BrickHeadz,2.0,5.0,Average,5.0,5.0
+41597,blah,blahblah,BrickHeadz,13.0,4.7,Average,4.8,4.8
+41598,blah,blahblah,BrickHeadz,3.0,2.7,Very Easy,4.0,3.0
+41599,blah,blahblah,BrickHeadz,5.0,4.6,Easy,5.0,5.0
+41600,blah,blahblah,BrickHeadz,1.0,1.0,Very Easy,4.0,3.0
+41601,blah,blahblah,BrickHeadz,2.0,3.5,Easy,5.0,4.0
+41602,blah,blahblah,BrickHeadz,3.0,4.5,Easy,5.0,4.5
+41603,blah,blahblah,BrickHeadz,5.0,4.3,Easy,5.0,4.8
+41604,blah,blahblah,BrickHeadz,3.0,4.0,Average,4.7,4.5
+41605,blah,blahblah,BrickHeadz,2.0,3.0,Easy,5.0,5.0
+41606,blah,blahblah,BrickHeadz,1.0,5.0,Easy,5.0,5.0
+41607,blah,blahblah,BrickHeadz,1.0,,nan,5.0,
+41608,blah,blahblah,BrickHeadz,1.0,2.0,Very Easy,4.0,4.0
+41609,blah,blahblah,BrickHeadz,1.0,2.0,Very Easy,3.0,4.0
+41610,blah,blahblah,BrickHeadz,,,nan,,
+41611,blah,blahblah,BrickHeadz,1.0,3.0,Easy,5.0,5.0
+41613,blah,blahblah,BrickHeadz,1.0,5.0,Very Easy,5.0,5.0
+41614,blah,blahblah,BrickHeadz,1.0,3.0,Easy,5.0,5.0
+42031,blah,blahblah,Technic,4.0,3.8,Easy,4.8,4.8
+42032,blah,blahblah,Technic,9.0,4.8,Average,4.6,4.6
+42033,blah,blahblah,Technic,8.0,4.7,Easy,4.6,4.1
+42036,blah,blahblah,Technic,15.0,4.7,Average,4.9,4.6
+42037,blah,blahblah,Technic,16.0,4.5,Average,4.6,4.3
+42039,blah,blahblah,Technic,23.0,4.6,Challenging,4.8,4.7
+42044,blah,blahblah,Technic,5.0,4.6,Average,4.6,4.6
+42045,blah,blahblah,Technic,5.0,4.8,Easy,4.8,5.0
+42049,blah,blahblah,Technic,9.0,4.1,Average,4.3,4.1
+42052,blah,blahblah,Technic,19.0,4.0,Challenging,4.3,4.4
+42053,blah,blahblah,Technic,18.0,4.6,Average,4.8,4.8
+42054,blah,blahblah,Technic,18.0,4.3,Challenging,4.8,4.6
+42055,blah,blahblah,Technic,75.0,3.9,Challenging,4.6,4.6
+42056,blah,blahblah,Technic,143.0,4.2,Challenging,4.7,4.3
+42057,blah,blahblah,Technic,9.0,4.3,Easy,4.7,4.8
+42058,blah,blahblah,Technic,2.0,4.5,Easy,4.0,4.0
+42059,blah,blahblah,Technic,7.0,4.4,Easy,4.7,4.6
+42060,blah,blahblah,Technic,10.0,4.6,Easy,4.8,4.6
+42061,blah,blahblah,Technic,6.0,4.6,Average,4.8,4.8
+42062,blah,blahblah,Technic,8.0,4.7,Easy,4.8,4.3
+42063,blah,blahblah,Technic,12.0,4.2,Average,4.7,4.4
+42064,blah,blahblah,Technic,14.0,4.6,Challenging,4.6,4.8
+42065,blah,blahblah,Technic,28.0,4.6,Easy,4.5,4.2
+42066,blah,blahblah,Technic,7.0,4.0,Challenging,4.9,4.7
+42068,blah,blahblah,Technic,12.0,4.0,Average,4.8,4.6
+42069,blah,blahblah,Technic,19.0,4.5,Average,4.9,4.7
+42070,blah,blahblah,Technic,45.0,3.7,Challenging,3.5,2.9
+42071,blah,blahblah,Technic,2.0,5.0,Challenging,5.0,5.0
+42072,blah,blahblah,Technic,1.0,5.0,nan,5.0,5.0
+42073,blah,blahblah,Technic,2.0,4.5,Easy,4.0,3.5
+42074,blah,blahblah,Technic,5.0,4.0,Average,4.8,4.2
+42075,blah,blahblah,Technic,1.0,5.0,Easy,5.0,4.0
+42076,blah,blahblah,Technic,5.0,3.8,Average,4.2,4.2
+42077,blah,blahblah,Technic,8.0,4.1,Average,4.4,4.1
+42078,blah,blahblah,Technic,22.0,4.5,Average,4.7,4.7
+42084,blah,blahblah,Technic,2.0,4.5,Easy,4.5,4.5
+45500,blah,blahblah,MINDSTORMS®,1.0,5.0,Average,4.0,3.0
+45501,blah,blahblah,MINDSTORMS®,6.0,4.0,Very Easy,4.3,3.0
+45502,blah,blahblah,MINDSTORMS®,2.0,5.0,nan,5.0,5.0
+45503,blah,blahblah,MINDSTORMS®,1.0,5.0,Easy,5.0,
+45504,blah,blahblah,MINDSTORMS®,4.0,3.0,Challenging,3.5,4.0
+45505,blah,blahblah,MINDSTORMS®,,,nan,,
+45506,blah,blahblah,MINDSTORMS®,1.0,5.0,Very Easy,5.0,5.0
+45507,blah,blahblah,MINDSTORMS®,,,nan,,
+45508,blah,blahblah,MINDSTORMS®,3.0,5.0,Average,5.0,3.3
+45509,blah,blahblah,MINDSTORMS®,,,nan,,
+45514,blah,blahblah,MINDSTORMS®,,,nan,,
+45517,blah,blahblah,MINDSTORMS®,2.0,5.0,Very Easy,4.0,2.5
+60051,blah,blahblah,City,45.0,4.4,Average,4.4,4.0
+60052,blah,blahblah,City,35.0,4.7,Average,4.4,3.8
+60100,blah,blahblah,City,10.0,4.4,Very Easy,4.9,5.0
+60101,blah,blahblah,City,13.0,4.4,Easy,4.6,4.2
+60106,blah,blahblah,City,11.0,3.9,Easy,4.1,4.1
+60107,blah,blahblah,City,11.0,4.5,Easy,4.5,4.1
+60108,blah,blahblah,City,8.0,4.2,Average,3.9,3.8
+60109,blah,blahblah,City,2.0,4.5,Easy,4.5,4.0
+60110,blah,blahblah,City,16.0,4.5,Average,4.6,4.6
+60117,blah,blahblah,City,35.0,4.5,Easy,4.6,4.6
+60119,blah,blahblah,City,14.0,4.0,Easy,4.2,4.2
+60120,blah,blahblah,City,7.0,4.7,Easy,4.3,4.3
+60121,blah,blahblah,City,6.0,4.8,Easy,4.8,4.4
+60122,blah,blahblah,City,4.0,5.0,Average,5.0,4.5
+60123,blah,blahblah,City,3.0,4.7,Easy,4.3,4.0
+60124,blah,blahblah,City,9.0,5.0,Average,4.6,4.6
+60125,blah,blahblah,City,5.0,5.0,Average,4.6,4.2
+60129,blah,blahblah,City,5.0,3.8,Easy,3.2,2.0
+60134,blah,blahblah,City,30.0,4.7,Very Easy,4.6,4.0
+60135,blah,blahblah,City,5.0,4.3,Very Easy,4.4,4.6
+60136,blah,blahblah,City,8.0,4.1,Easy,4.6,4.3
+60137,blah,blahblah,City,8.0,4.4,Easy,4.3,4.0
+60138,blah,blahblah,City,14.0,4.2,Average,4.2,4.1
+60139,blah,blahblah,City,10.0,3.9,Easy,4.0,3.3
+60140,blah,blahblah,City,9.0,3.9,Easy,3.3,3.6
+60141,blah,blahblah,City,10.0,4.2,Easy,4.7,4.0
+60142,blah,blahblah,City,7.0,4.7,Easy,4.4,4.1
+60143,blah,blahblah,City,2.0,4.5,nan,4.0,3.5
+60145,blah,blahblah,City,7.0,4.9,Very Easy,4.9,4.9
+60146,blah,blahblah,City,8.0,4.3,Easy,4.8,4.4
+60148,blah,blahblah,City,12.0,4.7,Easy,4.8,4.6
+60150,blah,blahblah,City,35.0,4.6,Easy,4.9,4.8
+60153,blah,blahblah,City,10.0,4.3,Very Easy,4.1,3.6
+60154,blah,blahblah,City,16.0,3.6,Easy,3.3,2.7
+60155,blah,blahblah,City,8.0,3.4,Easy,3.8,3.5
+60156,blah,blahblah,City,5.0,3.8,Easy,3.6,4.2
+60157,blah,blahblah,City,12.0,4.5,Easy,4.9,4.6
+60158,blah,blahblah,City,5.0,4.3,Average,4.4,3.8
+60159,blah,blahblah,City,5.0,4.8,Easy,4.8,4.6
+60160,blah,blahblah,City,3.0,4.7,Average,5.0,4.7
+60161,blah,blahblah,City,6.0,4.5,Average,4.3,4.0
+60162,blah,blahblah,City,1.0,5.0,Average,5.0,4.0
+60163,blah,blahblah,City,4.0,4.8,Very Easy,5.0,4.5
+60164,blah,blahblah,City,3.0,4.3,Easy,4.3,4.7
+60165,blah,blahblah,City,2.0,4.5,Very Easy,5.0,5.0
+60166,blah,blahblah,City,8.0,4.4,Challenging,4.4,4.0
+60167,blah,blahblah,City,3.0,3.3,Average,3.7,3.3
+60168,blah,blahblah,City,,,nan,,
+60169,blah,blahblah,City,4.0,5.0,Average,5.0,4.3
+60170,blah,blahblah,City,2.0,4.5,Very Easy,4.5,5.0
+60171,blah,blahblah,City,2.0,,nan,5.0,
+60172,blah,blahblah,City,,,nan,,
+60173,blah,blahblah,City,2.0,4.5,Average,4.0,2.5
+60174,blah,blahblah,City,8.0,4.4,Average,4.6,4.0
+60175,blah,blahblah,City,,,nan,,
+60176,blah,blahblah,City,1.0,5.0,Easy,5.0,4.0
+60177,blah,blahblah,City,2.0,4.5,Easy,4.5,5.0
+60178,blah,blahblah,City,1.0,4.0,Easy,5.0,4.0
+60179,blah,blahblah,City,6.0,4.2,Easy,3.8,4.7
+60180,blah,blahblah,City,4.0,5.0,Average,5.0,5.0
+60181,blah,blahblah,City,7.0,4.3,Easy,4.4,4.2
+60182,blah,blahblah,City,7.0,5.0,Easy,5.0,5.0
+60183,blah,blahblah,City,7.0,4.4,Easy,4.7,4.7
+60184,blah,blahblah,City,2.0,4.5,Very Easy,5.0,4.0
+60185,blah,blahblah,City,1.0,5.0,Easy,5.0,5.0
+60186,blah,blahblah,City,1.0,4.0,Average,5.0,4.0
+60188,blah,blahblah,City,1.0,5.0,nan,5.0,5.0
+70313,blah,blahblah,NEXO KNIGHTS™,3.0,4.7,Average,4.7,4.7
+70317,blah,blahblah,NEXO KNIGHTS™,17.0,4.9,Challenging,4.9,4.9
+70321,blah,blahblah,NEXO KNIGHTS™,2.0,4.5,Challenging,5.0,4.5
+70322,blah,blahblah,NEXO KNIGHTS™,3.0,5.0,Average,5.0,5.0
+70336,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+70337,blah,blahblah,NEXO KNIGHTS™,2.0,3.5,Easy,3.5,4.0
+70338,blah,blahblah,NEXO KNIGHTS™,1.0,5.0,Very Easy,5.0,4.0
+70339,blah,blahblah,NEXO KNIGHTS™,2.0,4.0,Very Easy,4.0,4.0
+70347,blah,blahblah,NEXO KNIGHTS™,1.0,4.0,nan,4.0,4.0
+70348,blah,blahblah,NEXO KNIGHTS™,1.0,5.0,Very Easy,5.0,5.0
+70349,blah,blahblah,NEXO KNIGHTS™,2.0,4.5,Average,4.5,4.0
+70350,blah,blahblah,NEXO KNIGHTS™,1.0,4.0,Average,4.0,3.0
+70352,blah,blahblah,NEXO KNIGHTS™,3.0,5.0,Average,5.0,4.7
+70354,blah,blahblah,NEXO KNIGHTS™,1.0,,nan,5.0,
+70355,blah,blahblah,NEXO KNIGHTS™,1.0,5.0,Average,5.0,4.0
+70357,blah,blahblah,NEXO KNIGHTS™,5.0,2.0,Challenging,2.6,1.8
+70358,blah,blahblah,NEXO KNIGHTS™,1.0,5.0,Average,5.0,5.0
+70359,blah,blahblah,NEXO KNIGHTS™,2.0,4.5,Easy,4.5,4.0
+70361,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+70362,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+70363,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+70364,blah,blahblah,NEXO KNIGHTS™,1.0,5.0,Very Easy,4.0,2.0
+70365,blah,blahblah,NEXO KNIGHTS™,2.0,3.5,nan,4.0,4.0
+70366,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+70372,blah,blahblah,NEXO KNIGHTS™,8.0,3.1,Very Easy,3.4,3.3
+70592,blah,blahblah,NINJAGO®,6.0,4.8,Average,4.8,4.8
+70601,blah,blahblah,NINJAGO®,12.0,4.1,Easy,4.2,3.8
+70603,blah,blahblah,NINJAGO®,8.0,3.9,Average,4.0,4.1
+70605,blah,blahblah,NINJAGO®,8.0,4.6,Average,4.5,4.1
+70606,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,11.0,4.5,Easy,4.7,4.8
+70607,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,18.0,4.6,Easy,4.6,4.5
+70608,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,10.0,3.5,Easy,4.0,3.6
+70609,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,6.0,4.4,Easy,4.3,4.2
+70610,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,7.0,4.2,Average,4.6,4.6
+70611,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,21.0,4.6,Average,4.5,4.8
+70612,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,29.0,4.6,Average,4.7,4.5
+70613,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,8.0,4.3,Average,4.5,4.5
+70614,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,8.0,4.7,Average,5.0,4.6
+70615,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,19.0,3.6,Average,4.2,4.6
+70616,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,6.0,4.8,Average,4.8,4.7
+70617,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,15.0,4.5,Average,4.8,4.8
+70618,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,52.0,4.7,Challenging,4.9,4.8
+70620,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,88.0,4.8,Challenging,4.9,4.8
+70621,blah,blahblah,NINJAGO®,7.0,4.3,Easy,4.7,4.8
+70623,blah,blahblah,NINJAGO®,7.0,4.4,Average,4.6,4.1
+70624,blah,blahblah,NINJAGO®,5.0,4.2,Average,4.6,4.0
+70628,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,1.0,5.0,Very Easy,5.0,5.0
+70629,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,8.0,4.1,Easy,3.6,4.1
+70631,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,7.0,4.7,Average,4.3,5.0
+70632,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,11.0,4.7,Average,4.5,4.4
+70633,blah,blahblah,NINJAGO®,,,nan,,
+70634,blah,blahblah,NINJAGO®,,,nan,,
+70635,blah,blahblah,NINJAGO®,1.0,4.0,Very Easy,4.0,3.0
+70636,blah,blahblah,NINJAGO®,,,nan,,
+70637,blah,blahblah,NINJAGO®,2.0,5.0,Easy,5.0,3.5
+70638,blah,blahblah,NINJAGO®,3.0,5.0,Average,5.0,5.0
+70639,blah,blahblah,NINJAGO®,3.0,5.0,Average,4.7,4.3
+70640,blah,blahblah,NINJAGO®,,,nan,,
+70641,blah,blahblah,NINJAGO®,4.0,4.3,Challenging,4.8,4.3
+70642,blah,blahblah,NINJAGO®,2.0,4.5,Average,4.0,4.5
+70643,blah,blahblah,NINJAGO®,6.0,3.8,Average,4.2,4.2
+70656,blah,blahblah,THE LEGO® NINJAGO® MOVIE™,9.0,4.6,Average,4.9,4.8
+70751,blah,blahblah,NINJAGO®,61.0,4.6,Challenging,4.8,4.3
+70900,blah,blahblah,THE LEGO® BATMAN MOVIE,18.0,4.5,Easy,4.7,4.6
+70901,blah,blahblah,THE LEGO® BATMAN MOVIE,19.0,4.1,Easy,4.6,4.4
+70902,blah,blahblah,THE LEGO® BATMAN MOVIE,27.0,4.2,Easy,4.5,4.2
+70903,blah,blahblah,THE LEGO® BATMAN MOVIE,18.0,4.2,Easy,4.2,4.4
+70904,blah,blahblah,THE LEGO® BATMAN MOVIE,13.0,3.9,Average,4.4,4.1
+70905,blah,blahblah,THE LEGO® BATMAN MOVIE,20.0,4.6,Average,4.8,4.3
+70906,blah,blahblah,THE LEGO® BATMAN MOVIE,19.0,4.4,Average,4.7,4.2
+70907,blah,blahblah,THE LEGO® BATMAN MOVIE,10.0,4.3,Easy,3.8,2.7
+70908,blah,blahblah,THE LEGO® BATMAN MOVIE,15.0,4.8,Average,4.7,4.0
+70909,blah,blahblah,THE LEGO® BATMAN MOVIE,23.0,4.7,Average,4.7,4.3
+70910,blah,blahblah,THE LEGO® BATMAN MOVIE,8.0,4.1,Average,4.4,4.1
+70911,blah,blahblah,THE LEGO® BATMAN MOVIE,24.0,4.5,Easy,4.8,4.4
+70912,blah,blahblah,THE LEGO® BATMAN MOVIE,20.0,3.5,Average,3.8,3.3
+70913,blah,blahblah,THE LEGO® BATMAN MOVIE,7.0,4.0,Easy,4.1,4.4
+70914,blah,blahblah,THE LEGO® BATMAN MOVIE,6.0,3.7,Average,4.0,3.0
+70915,blah,blahblah,THE LEGO® BATMAN MOVIE,6.0,4.7,Average,4.8,4.8
+70916,blah,blahblah,THE LEGO® BATMAN MOVIE,4.0,4.0,Average,4.0,3.8
+70917,blah,blahblah,THE LEGO® BATMAN MOVIE,18.0,4.6,Average,4.6,4.6
+70918,blah,blahblah,THE LEGO® BATMAN MOVIE,2.0,4.0,nan,4.5,4.0
+70919,blah,blahblah,THE LEGO® BATMAN MOVIE,5.0,3.6,Easy,3.2,3.4
+70920,blah,blahblah,THE LEGO® BATMAN MOVIE,11.0,4.9,Average,4.7,4.6
+70921,blah,blahblah,THE LEGO® BATMAN MOVIE,5.0,3.2,Average,3.2,2.6
+70922,blah,blahblah,THE LEGO® BATMAN MOVIE,19.0,4.9,Challenging,5.0,4.9
+70923,blah,blahblah,THE LEGO® BATMAN MOVIE,9.0,4.4,Average,4.8,3.5
+71018,blah,blahblah,Minifigures,26.0,4.3,Very Easy,4.1,3.3
+71019,blah,blahblah,Minifigures,22.0,4.3,Very Easy,4.3,4.1
+71020,blah,blahblah,Minifigures,13.0,4.3,Very Easy,4.8,4.0
+71021,blah,blahblah,Minifigures,14.0,4.5,Very Easy,4.6,4.3
+71040,blah,blahblah,Disney™,171.0,4.5,Challenging,4.7,4.5
+71042,blah,blahblah,Disney™,52.0,3.3,Average,4.5,4.3
+71171,blah,blahblah,DIMENSIONS™,6.0,4.7,Average,4.3,4.0
+71203,blah,blahblah,DIMENSIONS™,13.0,4.1,Average,4.1,3.9
+71217,blah,blahblah,DIMENSIONS™,8.0,3.6,Easy,4.0,3.5
+71218,blah,blahblah,DIMENSIONS™,3.0,4.0,Easy,4.3,3.7
+71221,blah,blahblah,DIMENSIONS™,7.0,4.1,Easy,4.3,3.7
+71228,blah,blahblah,DIMENSIONS™,7.0,4.4,Easy,4.7,4.3
+71229,blah,blahblah,DIMENSIONS™,2.0,4.0,Easy,4.0,3.5
+71232,blah,blahblah,DIMENSIONS™,4.0,4.0,Average,3.8,3.0
+71234,blah,blahblah,DIMENSIONS™,2.0,4.5,Easy,4.5,4.0
+71235,blah,blahblah,DIMENSIONS™,11.0,3.4,Average,3.2,3.7
+71238,blah,blahblah,DIMENSIONS™,7.0,4.5,Easy,4.6,4.3
+71240,blah,blahblah,DIMENSIONS™,2.0,3.5,Easy,4.0,3.5
+71242,blah,blahblah,DIMENSIONS™,5.0,4.8,Average,4.2,3.6
+71245,blah,blahblah,DIMENSIONS™,4.0,4.8,Very Easy,4.5,4.0
+71246,blah,blahblah,DIMENSIONS™,3.0,5.0,Easy,4.7,4.0
+71247,blah,blahblah,DIMENSIONS™,4.0,5.0,Easy,5.0,4.3
+71248,blah,blahblah,DIMENSIONS™,6.0,4.2,Easy,4.5,3.4
+71251,blah,blahblah,DIMENSIONS™,3.0,3.7,Easy,4.3,4.0
+71255,blah,blahblah,DIMENSIONS™,2.0,3.5,Easy,4.0,3.5
+71264,blah,blahblah,DIMENSIONS™,2.0,4.5,Easy,4.5,3.5
+71266,blah,blahblah,DIMENSIONS™,2.0,5.0,Average,5.0,5.0
+71267,blah,blahblah,DIMENSIONS™,2.0,5.0,Average,5.0,5.0
+71286,blah,blahblah,DIMENSIONS™,3.0,4.0,Easy,4.0,3.7
+71287,blah,blahblah,DIMENSIONS™,,,nan,,
+71343,blah,blahblah,DIMENSIONS™,1.0,4.0,Easy,5.0,5.0
+71344,blah,blahblah,DIMENSIONS™,1.0,5.0,Average,5.0,5.0
+71346,blah,blahblah,DIMENSIONS™,,,nan,,
+71348,blah,blahblah,DIMENSIONS™,1.0,5.0,Very Easy,5.0,5.0
+71349,blah,blahblah,DIMENSIONS™,1.0,5.0,Easy,5.0,5.0
+72001,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+72002,blah,blahblah,NEXO KNIGHTS™,1.0,4.0,Easy,5.0,3.0
+72003,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+72004,blah,blahblah,NEXO KNIGHTS™,3.0,5.0,Average,5.0,5.0
+72005,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+72006,blah,blahblah,NEXO KNIGHTS™,3.0,4.3,Challenging,4.0,4.0
+75060,blah,blahblah,Star Wars™,201.0,3.9,Challenging,4.8,4.5
+75095,blah,blahblah,Star Wars™,94.0,4.0,Average,4.7,4.3
+75099,blah,blahblah,Star Wars™,70.0,4.3,Easy,4.4,4.0
+75102,blah,blahblah,Star Wars™,71.0,4.7,Average,4.7,4.1
+75104,blah,blahblah,Star Wars™,67.0,4.0,Average,4.1,3.8
+75107,blah,blahblah,Star Wars™,10.0,4.2,Easy,3.7,4.4
+75109,blah,blahblah,Star Wars™,5.0,4.2,Easy,4.4,3.2
+75111,blah,blahblah,Star Wars™,25.0,4.5,Average,4.7,4.3
+75114,blah,blahblah,Star Wars™,10.0,4.4,Very Easy,4.7,4.3
+75116,blah,blahblah,Star Wars™,1.0,5.0,Easy,5.0,5.0
+75117,blah,blahblah,Star Wars™,12.0,4.4,Easy,4.5,4.4
+75118,blah,blahblah,Star Wars™,10.0,4.5,Easy,4.1,3.5
+75119,blah,blahblah,Star Wars™,3.0,4.0,Average,3.7,3.0
+75120,blah,blahblah,Star Wars™,12.0,3.6,Easy,4.1,3.9
+75121,blah,blahblah,Star Wars™,4.0,5.0,Easy,4.8,4.8
+75125,blah,blahblah,Star Wars™,9.0,4.1,Easy,4.3,4.2
+75126,blah,blahblah,Star Wars™,11.0,4.5,Easy,4.5,4.5
+75128,blah,blahblah,Star Wars™,11.0,4.5,Easy,4.6,4.7
+75131,blah,blahblah,Star Wars™,16.0,4.3,Very Easy,4.5,4.3
+75132,blah,blahblah,Star Wars™,38.0,4.1,Very Easy,3.9,3.8
+75139,blah,blahblah,Star Wars™,47.0,4.3,Easy,4.1,3.2
+75144,blah,blahblah,Star Wars™,86.0,3.3,Challenging,4.3,4.1
+75147,blah,blahblah,Star Wars™,12.0,3.8,Easy,3.6,3.5
+75148,blah,blahblah,Star Wars™,24.0,3.7,Average,3.6,2.7
+75154,blah,blahblah,Star Wars™,39.0,4.5,Average,4.6,3.6
+75155,blah,blahblah,Star Wars™,56.0,4.6,Average,4.6,3.9
+75156,blah,blahblah,Star Wars™,39.0,4.2,Average,4.4,4.4
+75159,blah,blahblah,Star Wars™,84.0,4.5,Challenging,3.9,3.5
+75160,blah,blahblah,Star Wars™,6.0,4.8,Easy,4.8,4.8
+75161,blah,blahblah,Star Wars™,4.0,4.3,Easy,4.5,4.5
+75162,blah,blahblah,Star Wars™,7.0,4.5,Very Easy,4.7,4.6
+75163,blah,blahblah,Star Wars™,4.0,4.0,Very Easy,4.3,4.0
+75164,blah,blahblah,Star Wars™,10.0,4.2,Very Easy,4.7,4.1
+75165,blah,blahblah,Star Wars™,36.0,4.2,Easy,4.0,3.7
+75166,blah,blahblah,Star Wars™,25.0,4.3,Very Easy,4.6,4.3
+75167,blah,blahblah,Star Wars™,40.0,4.5,Very Easy,4.7,4.8
+75168,blah,blahblah,Star Wars™,37.0,4.3,Easy,4.5,4.3
+75169,blah,blahblah,Star Wars™,32.0,4.4,Easy,4.4,4.4
+75170,blah,blahblah,Star Wars™,25.0,3.7,Easy,3.8,3.1
+75171,blah,blahblah,Star Wars™,19.0,4.3,Easy,3.8,2.7
+75172,blah,blahblah,Star Wars™,51.0,4.8,Average,4.7,4.4
+75173,blah,blahblah,Star Wars™,27.0,4.3,Easy,4.5,4.3
+75174,blah,blahblah,Star Wars™,27.0,4.6,Easy,4.6,4.1
+75175,blah,blahblah,Star Wars™,24.0,4.7,Easy,4.6,3.7
+75176,blah,blahblah,Star Wars™,14.0,4.6,Easy,4.7,3.7
+75177,blah,blahblah,Star Wars™,9.0,3.9,Challenging,4.0,3.8
+75178,blah,blahblah,Star Wars™,12.0,4.4,Easy,4.3,3.6
+75179,blah,blahblah,Star Wars™,22.0,4.5,Average,4.6,3.9
+75180,blah,blahblah,Star Wars™,3.0,5.0,Average,4.7,3.7
+75181,blah,blahblah,Star Wars™,1.0,5.0,Very Challenging,5.0,5.0
+75182,blah,blahblah,Star Wars™,27.0,4.6,Easy,4.6,4.4
+75183,blah,blahblah,Star Wars™,38.0,4.5,Easy,4.7,4.7
+75184,blah,blahblah,Star Wars™,26.0,3.5,Easy,3.2,2.7
+75185,blah,blahblah,Star Wars™,6.0,4.2,Challenging,4.3,4.4
+75186,blah,blahblah,Star Wars™,5.0,4.8,Challenging,4.8,4.4
+75187,blah,blahblah,Star Wars™,79.0,4.6,Average,4.8,4.6
+75188,blah,blahblah,Star Wars™,23.0,4.7,Average,4.6,4.0
+75189,blah,blahblah,Star Wars™,33.0,4.1,Challenging,4.4,3.9
+75190,blah,blahblah,Star Wars™,31.0,4.6,Average,4.8,4.4
+75191,blah,blahblah,Star Wars™,15.0,4.7,Average,4.7,4.3
+75192,blah,blahblah,Star Wars™,197.0,4.0,Challenging,4.8,4.4
+75193,blah,blahblah,Star Wars™,9.0,4.7,Easy,4.7,4.7
+75194,blah,blahblah,Star Wars™,3.0,4.7,Easy,4.3,4.0
+75195,blah,blahblah,Star Wars™,4.0,4.5,Easy,4.5,4.5
+75196,blah,blahblah,Star Wars™,3.0,4.0,Easy,4.3,4.0
+75197,blah,blahblah,Star Wars™,15.0,3.8,Very Easy,4.1,3.9
+75198,blah,blahblah,Star Wars™,14.0,4.2,Easy,4.1,4.1
+75199,blah,blahblah,Star Wars™,19.0,3.4,Easy,2.6,1.9
+75200,blah,blahblah,Star Wars™,25.0,4.1,Easy,4.5,4.1
+75201,blah,blahblah,Star Wars™,37.0,2.2,Easy,1.8,1.8
+75202,blah,blahblah,Star Wars™,4.0,4.5,Easy,4.3,4.0
+75204,blah,blahblah,Star Wars™,13.0,4.9,Easy,4.5,4.2
+75205,blah,blahblah,Star Wars™,14.0,4.0,Easy,3.5,3.3
+75206,blah,blahblah,Star Wars™,3.0,4.0,Very Easy,4.0,4.3
+75207,blah,blahblah,Star Wars™,4.0,4.3,Very Easy,5.0,4.0
+75208,blah,blahblah,Star Wars™,5.0,4.4,Easy,4.4,4.2
+75209,blah,blahblah,Star Wars™,4.0,4.5,Easy,4.8,4.3
+75210,blah,blahblah,Star Wars™,2.0,4.0,Easy,4.5,3.5
+75211,blah,blahblah,Star Wars™,7.0,5.0,Average,4.7,3.7
+75212,blah,blahblah,Star Wars™,4.0,4.0,Average,4.0,3.8
+75523,blah,blahblah,Star Wars™,1.0,4.0,Easy,5.0,4.0
+75524,blah,blahblah,Star Wars™,1.0,4.0,Easy,4.0,3.0
+75525,blah,blahblah,Star Wars™,1.0,5.0,Very Easy,5.0,5.0
+75526,blah,blahblah,Star Wars™,1.0,4.0,Easy,4.0,4.0
+75528,blah,blahblah,Star Wars™,3.0,4.7,Easy,4.7,4.7
+75529,blah,blahblah,Star Wars™,7.0,4.1,Easy,4.7,3.9
+75530,blah,blahblah,Star Wars™,5.0,4.3,Average,3.6,3.4
+75531,blah,blahblah,Star Wars™,3.0,3.3,Very Easy,4.0,4.0
+75532,blah,blahblah,Star Wars™,11.0,4.2,Challenging,4.5,4.4
+75533,blah,blahblah,Star Wars™,4.0,4.8,Average,4.8,4.0
+75534,blah,blahblah,Star Wars™,6.0,4.6,Average,5.0,4.0
+75535,blah,blahblah,Star Wars™,,,nan,,
+75536,blah,blahblah,Star Wars™,2.0,4.0,Easy,5.0,4.5
+75537,blah,blahblah,Star Wars™,,,nan,,
+75821,blah,blahblah,Angry Birds™,11.0,4.3,Easy,4.3,4.1
+75822,blah,blahblah,Angry Birds™,2.0,4.0,Easy,5.0,4.0
+75823,blah,blahblah,Angry Birds™,2.0,4.0,Average,4.5,4.0
+75827,blah,blahblah,Ghostbusters™,130.0,4.7,Challenging,4.8,4.7
+75828,blah,blahblah,Ghostbusters™,24.0,4.6,Average,4.8,4.3
+75871,blah,blahblah,Speed Champions,28.0,4.5,Easy,4.4,4.4
+75872,blah,blahblah,Speed Champions,9.0,4.9,Average,4.7,4.9
+75877,blah,blahblah,Speed Champions,12.0,4.5,Easy,4.6,4.4
+75878,blah,blahblah,Speed Champions,19.0,4.7,Easy,4.9,4.8
+75879,blah,blahblah,Speed Champions,11.0,4.8,Easy,4.7,4.7
+75880,blah,blahblah,Speed Champions,10.0,4.7,Easy,4.9,4.7
+75881,blah,blahblah,Speed Champions,12.0,4.5,Easy,4.8,4.4
+75883,blah,blahblah,Speed Champions,8.0,4.6,Average,4.6,4.3
+75884,blah,blahblah,Speed Champions,9.0,4.8,Easy,4.9,4.8
+75885,blah,blahblah,Speed Champions,13.0,4.5,Average,4.5,4.5
+75886,blah,blahblah,Speed Champions,3.0,5.0,Easy,5.0,5.0
+75887,blah,blahblah,Speed Champions,3.0,5.0,Easy,5.0,5.0
+75888,blah,blahblah,Speed Champions,4.0,5.0,Average,4.8,4.8
+75889,blah,blahblah,Speed Champions,2.0,5.0,Average,5.0,4.5
+75926,blah,blahblah,Pteranodon Chase,1.0,3.0,Easy,4.0,2.0
+75927,blah,blahblah,Stygimoloch Breakout,2.0,4.5,Average,5.0,4.5
+75928,blah,blahblah,Blue's Helicopter Pursuit,,,nan,,
+75929,blah,blahblah,Carnotaurus Gyrosphere Escape,1.0,,nan,5.0,
+75930,blah,blahblah,Indoraptor Rampage at Lockwood Estate,2.0,5.0,Easy,5.0,4.0
+75931,blah,blahblah,Dilophosaurus Outpost Attack,1.0,3.0,Easy,4.0,3.0
+75932,blah,blahblah,Jurassic Park Velociraptor Chase,4.0,4.8,Average,5.0,4.3
+75933,blah,blahblah,T. rex Transport,,,nan,,
+76025,blah,blahblah,DC Comics™ Super Heroes,32.0,4.6,Easy,4.8,4.7
+76029,blah,blahblah,Marvel Super Heroes,25.0,4.2,Very Easy,4.5,4.4
+76044,blah,blahblah,DC Comics™ Super Heroes,30.0,4.3,Easy,4.3,4.4
+76045,blah,blahblah,DC Comics™ Super Heroes,18.0,4.5,Average,4.6,4.3
+76052,blah,blahblah,DC Comics™ Super Heroes,47.0,4.5,Average,4.6,4.2
+76054,blah,blahblah,DC Comics™ Super Heroes,9.0,4.7,Easy,4.6,4.4
+76055,blah,blahblah,DC Comics™ Super Heroes,11.0,4.2,Average,4.3,3.9
+76056,blah,blahblah,DC Comics™ Super Heroes,8.0,4.5,Average,4.4,3.9
+76060,blah,blahblah,Marvel Super Heroes,15.0,3.8,Average,4.5,4.5
+76067,blah,blahblah,Marvel Super Heroes,14.0,4.7,Easy,4.8,4.6
+76068,blah,blahblah,DC Comics™ Super Heroes,3.0,4.7,Easy,4.7,5.0
+76069,blah,blahblah,DC Comics™ Super Heroes,1.0,5.0,Easy,5.0,5.0
+76070,blah,blahblah,DC Comics™ Super Heroes,2.0,5.0,Easy,5.0,5.0
+76071,blah,blahblah,Marvel Super Heroes,1.0,5.0,Very Easy,4.0,5.0
+76072,blah,blahblah,Marvel Super Heroes,10.0,4.4,Very Easy,4.4,4.6
+76073,blah,blahblah,Marvel Super Heroes,4.0,4.3,Easy,4.0,4.5
+76075,blah,blahblah,DC Comics™ Super Heroes,7.0,5.0,Easy,4.7,4.8
+76076,blah,blahblah,Marvel Super Heroes,10.0,3.9,Easy,3.7,3.9
+76077,blah,blahblah,Marvel Super Heroes,10.0,4.8,Easy,4.6,4.3
+76078,blah,blahblah,Marvel Super Heroes,7.0,4.1,Easy,3.7,2.3
+76079,blah,blahblah,Marvel Super Heroes,9.0,4.3,Easy,4.4,4.8
+76080,blah,blahblah,Marvel Super Heroes,12.0,4.3,Average,4.8,4.3
+76082,blah,blahblah,Marvel Super Heroes,9.0,3.9,Easy,3.9,4.2
+76083,blah,blahblah,Marvel Super Heroes,23.0,4.4,Average,4.6,3.9
+76084,blah,blahblah,Marvel Super Heroes,6.0,4.8,Easy,4.3,4.5
+76085,blah,blahblah,DC Comics™ Super Heroes,9.0,3.9,Easy,4.2,3.9
+76086,blah,blahblah,DC Comics™ Super Heroes,6.0,5.0,Average,5.0,4.8
+76087,blah,blahblah,DC Comics™ Super Heroes,13.0,4.1,Average,3.7,3.0
+76088,blah,blahblah,Marvel Super Heroes,6.0,4.7,Average,4.3,4.0
+76089,blah,blahblah,Marvel Super Heroes,,,nan,,
+76090,blah,blahblah,Marvel Super Heroes,,,nan,,
+76091,blah,blahblah,Marvel Super Heroes,2.0,3.5,Easy,3.5,3.0
+76096,blah,blahblah,DC Comics™ Super Heroes,1.0,5.0,Average,5.0,5.0
+76097,blah,blahblah,DC Comics™ Super Heroes,5.0,5.0,Average,4.8,4.8
+76098,blah,blahblah,DC Comics™ Super Heroes,6.0,4.5,Easy,4.8,4.5
+76099,blah,blahblah,Marvel Super Heroes,6.0,4.4,Easy,4.7,5.0
+76100,blah,blahblah,Marvel Super Heroes,7.0,4.7,Average,4.7,4.8
+76101,blah,blahblah,Marvel Super Heroes,13.0,4.2,Easy,4.8,4.8
+76102,blah,blahblah,Marvel Super Heroes,10.0,4.4,Easy,4.4,4.9
+76103,blah,blahblah,Marvel Super Heroes,3.0,3.7,Average,4.0,3.7
+76104,blah,blahblah,Marvel Super Heroes,13.0,4.7,Easy,4.8,4.7
+76105,blah,blahblah,Marvel Super Heroes,52.0,3.2,Average,3.8,4.0
+76107,blah,blahblah,Marvel Super Heroes,17.0,4.9,Average,4.7,4.2
+76108,blah,blahblah,Marvel Super Heroes,7.0,4.8,Average,5.0,4.8
+853516,blah,blahblah,NEXO KNIGHTS™,,,nan,,
+853638,blah,blahblah,THE LEGO® BATMAN MOVIE,19.0,2.1,Very Easy,2.9,2.8
+2000409,blah,blahblah,SERIOUS PLAY®,2.0,5.0,Easy,5.0,5.0
+2000414,blah,blahblah,SERIOUS PLAY®,10.0,3.9,Easy,3.9,3.3
+2000430,blah,blahblah,SERIOUS PLAY®,7.0,4.7,Easy,4.6,3.6
+2000431,blah,blahblah,SERIOUS PLAY®,8.0,3.7,Average,3.4,2.9
